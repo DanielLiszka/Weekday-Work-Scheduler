@@ -1,4 +1,4 @@
-var currentHour = new Date().getHours() 
+var currentHour = 13 //new Date().getHours() 
 var Hour_array = [9, 10, 11, 12, 13, 14, 15, 16, 17];
 var currentDay = document.querySelector("#currentDay")
 var saveBtn = document.querySelectorAll(".saveBtn");
